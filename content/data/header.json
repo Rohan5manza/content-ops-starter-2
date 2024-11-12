@@ -34,7 +34,7 @@
             "type": "Button",
             "label": "Our Newsletter",
             "altText": "",
-            "url": "/",
+            "url": "https://gradientdev.substack.com/",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
