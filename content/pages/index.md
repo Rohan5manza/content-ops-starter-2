@@ -257,7 +257,10 @@ sections:
         text: >
           We help people get started with their career in AI as a professional
           ML engineer/ data scientist/ software devloper. We specialize in
-          teaching others practical machine learning, MLOps, and much more
+          teaching others practical machine learning, MLOps, and much more.
+
+
+          We help people build their project portfolio.
         image:
           type: ImageBlock
           altText: Featured item
