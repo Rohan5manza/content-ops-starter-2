@@ -350,7 +350,12 @@ sections:
     text: >
       We are an education company that want to inspire other people to learn
       about AI meaningfully through hands-on training and a research-oriented
-      community. 
+      community.
+
+
+      We aspire to be a school that teaches beginners about cutting-edge AI
+      technology in a simple, concise and interesting manner. Essentially
+      breaking down complex concepts into easy steps using first-principles.  
     actions:
       - type: Button
         label: Get started
