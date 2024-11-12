@@ -253,7 +253,7 @@ sections:
       - type: FeaturedItem
         title: Become a ML Engineer
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: 'Upgrade your skills. Get qualified for landing top AI jobs. '
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
