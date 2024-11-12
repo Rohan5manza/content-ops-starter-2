@@ -92,7 +92,7 @@ sections:
           more! 
         actions:
           - type: Button
-            label: Get started
+            label: Click here
             altText: ''
             url: 'https://github.com/GradientDev-Academy'
             showIcon: false
