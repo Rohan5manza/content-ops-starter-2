@@ -114,10 +114,9 @@ sections:
               borderRadius: x-large
       - title: 'Github '
         subtitle: Codebase
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Follow our repositories for all our open-source projects and teaching
+          course material.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
