@@ -32,7 +32,7 @@
         },
         {
             "type": "Button",
-            "label": "Our ",
+            "label": "Our Newsletter",
             "altText": "",
             "url": "/",
             "showIcon": false,
