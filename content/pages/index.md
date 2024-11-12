@@ -356,14 +356,7 @@ sections:
       We aspire to be a school that teaches beginners about cutting-edge AI
       technology in a simple, concise and interesting manner. Essentially
       breaking down complex concepts into easy steps using first-principles.  
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       altText: Fun feature preview
