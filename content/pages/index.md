@@ -357,12 +357,6 @@ sections:
       technology in a simple, concise and interesting manner. Essentially
       breaking down complex concepts into easy steps using first-principles.  
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
