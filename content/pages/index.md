@@ -344,7 +344,9 @@ sections:
       type: TitleBlock
       text: Our Mission
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: >-
+      To drive cutting-edge AI research and help others get started practically,
+      in a fun and engaging way.
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
