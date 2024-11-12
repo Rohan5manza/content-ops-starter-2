@@ -94,7 +94,7 @@ sections:
           - type: Button
             label: Click here
             altText: ''
-            url: 'https://github.com/GradientDev-Academy'
+            url: ''
             showIcon: false
             icon: arrowRight
             iconPosition: right
