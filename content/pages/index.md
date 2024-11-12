@@ -86,7 +86,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Discord group '
-        subtitle: Numbers Done
+        subtitle: Knowledge base
         text: >
           Join our discord community for discussions on research topics and much
           more! 
