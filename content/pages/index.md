@@ -403,7 +403,7 @@ sections:
           - pr-7
     type: DividerSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: GradientDev Academy
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
