@@ -195,7 +195,7 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: /
+        url: ''
         icon: arrowRight
         iconPosition: right
         style: secondary
