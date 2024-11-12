@@ -217,10 +217,12 @@ sections:
         title: 'Get started in AI research '
         tagline: Feature 1
         subtitle: We help others start their journey in research.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We dub ourselves the "Indie Hackers for research" : for solo and
+          independent beginners who wish to pursue AI research. We provide them
+          support and guidance in ideation phase, writing research papers, get
+          published in reputed journals, prepare for conferences, and much
+          more. 
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
