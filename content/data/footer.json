@@ -23,6 +23,13 @@
             "url": "algoinves@gmail.com",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "https://youtube.com/@gradientdevacademy?si=EwkHG4ZpNPsuGPRc",
+            "icon": "youtube",
+            "elementId": ""
         }
     ],
     "legalLinks": [
