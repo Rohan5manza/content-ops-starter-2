@@ -254,10 +254,10 @@ sections:
         title: Become a ML Engineer
         tagline: Feature 1
         subtitle: 'Upgrade your skills. Get qualified for landing top AI jobs. '
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We help people get started with their career in AI as a professional
+          ML engineer/ data scientist/ software devloper. We specialize in
+          teaching others practical machine learning, MLOps, and much more
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
