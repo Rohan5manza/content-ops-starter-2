@@ -290,7 +290,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: Prep for tests and hackathons
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
