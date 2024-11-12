@@ -21,17 +21,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Button"
-        },
-        {
-            "type": "Button",
-            "label": "Our Newsletter",
-            "altText": "",
-            "url": "https://gradientdev.substack.com/",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "variant": "logo-left-primary-nav-centered",
