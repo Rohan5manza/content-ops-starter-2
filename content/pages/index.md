@@ -8,8 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Join us to kickstart your career in AI.
-    text: >+
-      At GradientDev Academy, we have online courses for deep learning, model
+    text: >
+      At GradientDev Academy, we have online courses for deep learning, AI model
       deployment, product building and AI research.
 
 
@@ -36,9 +36,6 @@ sections:
       We also have our own newsletter series where we cover topics such as
       latest news in AI research, tech startup culture, computer hardware and
       architecture, chip design, and robotics.
-
-
-
     actions:
       - label: Get started
         altText: ''
