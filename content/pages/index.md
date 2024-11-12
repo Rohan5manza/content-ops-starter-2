@@ -186,11 +186,13 @@ sections:
     text: |+
       Follow our Substack for :
 
-      1.  Our Newsletter series : latest news in AI research. 
+      1.  Our Newsletter series : latest news in AI research.
 
-      2.  Our technical guides on AI projects and theory. 
+      2.  Our technical guides on AI projects and theory.
 
       3.  Our blogs on new research directions, ideas and innovations.
+
+      4.  Cheat sheets for your learning. 
 
     actions:
       - type: Button
