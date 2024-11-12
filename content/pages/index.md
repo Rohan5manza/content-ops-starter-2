@@ -292,7 +292,9 @@ sections:
       - type: FeaturedItem
         title: Prep for tests and hackathons
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: >-
+          Take our quizzes to prepare for standardized ML tests in graduate
+          universities. Upskill yourself and ace tests.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
