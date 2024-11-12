@@ -338,7 +338,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Join us as an educator
+      text: Join us as an Educator
       color: text-dark
       styles:
         self:
