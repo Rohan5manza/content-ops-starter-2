@@ -90,7 +90,16 @@ sections:
         text: >
           Join our discord community for discussions on research topics and much
           more! 
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://github.com/GradientDev-Academy'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
