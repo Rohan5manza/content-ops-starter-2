@@ -404,7 +404,7 @@ sections:
     type: DividerSection
 seo:
   metaTitle: GradientDev Academy
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
