@@ -23,14 +23,6 @@
             "type": "Button"
         },
         {
-            "label": "Join our Academy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
             "type": "Button",
             "label": "Our Newsletter",
             "altText": "",
