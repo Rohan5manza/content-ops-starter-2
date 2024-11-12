@@ -260,7 +260,6 @@ sections:
           teaching others practical machine learning, MLOps, and much more
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
           altText: Featured item
           styles:
             self:
