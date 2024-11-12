@@ -82,7 +82,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Join our research endeavors
     items:
       - type: FeaturedItem
         title: 500k
