@@ -255,7 +255,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Join us as an educator
       color: text-dark
       styles:
         self:
