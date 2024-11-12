@@ -195,7 +195,7 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: ''
+        url: 'https://gradientdev.substack.com/'
         icon: arrowRight
         iconPosition: right
         style: secondary
