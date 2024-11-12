@@ -85,7 +85,7 @@ sections:
     subtitle: Join our research endeavors
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Discord
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
