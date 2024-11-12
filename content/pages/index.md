@@ -342,7 +342,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
+      text: Our Mission
       color: text-dark
     subtitle: Increase your reach
     text: >
