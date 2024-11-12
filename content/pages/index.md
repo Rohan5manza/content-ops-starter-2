@@ -180,7 +180,9 @@ sections:
       type: TitleBlock
       text: Our newsletter
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: >-
+      A series of latest news, detailed technical articles,how-to
+      guides,tutorials and research blogs.
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
