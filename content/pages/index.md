@@ -194,7 +194,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Follow us
         url: 'https://gradientdev.substack.com/'
         icon: arrowRight
         iconPosition: right
