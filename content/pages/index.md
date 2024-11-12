@@ -87,10 +87,9 @@ sections:
       - type: FeaturedItem
         title: 'Discord group '
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Join our discord community for discussions on research topics and much
+          more! 
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
