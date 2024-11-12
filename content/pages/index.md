@@ -8,10 +8,37 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Join us to kickstart your career in AI
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      At GradientDev Academy, we have online courses for deep learning, model
+      deployment, product building and AI research.
+
+
+      We have teaching courses on platforms such as Udemy and Youtube.
+
+
+      We provide an extensive series of technical articles and tutorials for AI
+      projects.
+
+
+      We have an open-source community for research on topics such as neural
+      scaling laws and model feature interpretability, on Discord and Github. We
+      guide solo independent people interested for pursuing AI research on their
+      own.
+
+
+      We help build project portfolio for others.
+
+
+      We help students prepare for standardized AI tests in universities,
+      provide support for AI hackathon prep.
+
+
+      We also have our own newsletter series where we cover topics such as
+      latest news in AI research, tech startup culture, computer hardware and
+      architecture, chip design, and robotics.
+
+
+
     actions:
       - label: Get started
         altText: ''
