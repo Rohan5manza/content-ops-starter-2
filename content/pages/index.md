@@ -262,11 +262,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: 'Become a teacher at our academy. '
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Do you want to become a teacher to help beginners get inspired? Ever wanted to get started as an online educator easily? Have experience in AI and want to share your ideas to others? \n\nWell, then this is the perfect place for you! We have a team of dedicated educators focused on providing quality content. Join us and help us grow our organization. \n\n1\\. Launch your videos on Udemy and Youtube.\_\n\n2\\. Design and teach new online AI courses.\n\n3\\. Help our student community prepare for standardized deep learning tests and hackathons.\n\n4\\. Assist professionals in launching their AI project portfolio.\_\_\n\nApply here: [https://forms.gle/dF2eNcgrWsFYMRBj9 ](https://forms.gle/dF2eNcgrWsFYMRBj9)\n"
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
