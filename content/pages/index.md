@@ -7,7 +7,7 @@ sections:
       text: Learn AI fundamentals. From basics to breakthroughs.
       color: text-dark
       type: TitleBlock
-    subtitle: Join us to kickstart your career in AI
+    subtitle: Join us to kickstart your career in AI.
     text: >+
       At GradientDev Academy, we have online courses for deep learning, model
       deployment, product building and AI research.
