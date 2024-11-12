@@ -183,9 +183,15 @@ sections:
     subtitle: >-
       A series of latest news, detailed technical articles,how-to
       guides,tutorials and research blogs.
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |+
+      Follow our Substack for :
+
+      1.  Our Newsletter series : latest news in AI research. 
+
+      2.  Our technical guides on AI projects and theory. 
+
+      3.  Our blogs on new research directions, ideas and innovations.
+
     actions:
       - type: Button
         label: Get started
