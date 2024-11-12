@@ -133,7 +133,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: Follow us
             altText: ''
             url: 'https://github.com/GradientDev-Academy'
             showIcon: false
