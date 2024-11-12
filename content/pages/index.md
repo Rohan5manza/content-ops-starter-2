@@ -216,7 +216,7 @@ sections:
       - type: FeaturedItem
         title: 'Get started in AI research '
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: We help others start their journey in research.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
