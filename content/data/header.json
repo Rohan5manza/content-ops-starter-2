@@ -32,7 +32,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Our ",
             "altText": "",
             "url": "/",
             "showIcon": false,
