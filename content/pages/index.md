@@ -94,7 +94,7 @@ sections:
           - type: Button
             label: Click here
             altText: ''
-            url: 'https://discord.gg/XrxKDB2t'
+            url: 'https://discord.gg/N6KMVQMepC'
             showIcon: false
             icon: arrowRight
             iconPosition: right
