@@ -405,7 +405,7 @@ sections:
 seo:
   metaTitle: GradientDev Academy
   metaDescription: ''
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Screenshot 2024-11-12 164651.png
   type: Seo
 type: PageLayout
 ---
