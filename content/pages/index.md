@@ -251,7 +251,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: Become a ML Engineer
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
