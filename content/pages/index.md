@@ -348,8 +348,9 @@ sections:
       To drive AI research and help others get started in a fun and engaging
       way.
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      We are an education company that want to inspire other people to learn
+      about AI meaningfully through hands-on training and a research-oriented
+      community. 
     actions:
       - type: Button
         label: Get started
