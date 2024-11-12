@@ -295,10 +295,12 @@ sections:
         subtitle: >-
           Take our quizzes to prepare for standardized ML tests in graduate
           universities. Upskill yourself and ace tests.
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We help students prepare for tests as well as popular AI hackathons. 
+
+
+          We conduct quizzes, tests, and small hackathons to simulate real-world
+          challenges. 
         image:
           type: ImageBlock
           altText: Featured item
