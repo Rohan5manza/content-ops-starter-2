@@ -8,34 +8,39 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Join us to kickstart your career in AI.
-    text: >
-      At GradientDev Academy, we have online courses for deep learning, AI model
-      deployment, product building and AI research.
+    text: >+
+      At **GradientDev Academy**, we provide an extensive series of technical
+      articles and tutorials for AI projects.
 
 
-      We have teaching courses on platforms such as Udemy and Youtube.
+      We also have our own newsletter series where we cover latest news in AI
+      research and industry trends.
 
 
-      We provide an extensive series of technical articles and tutorials for AI
-      projects.
+      We have some plans that we are currently working on. Our future plans for
+      this initiative are: 
 
 
-      We have an open-source community for research on topics such as neural
-      scaling laws and model feature interpretability, on Discord and Github. We
+
+      Teaching courses on platforms such as Udemy and Youtube.
+
+
+      Online courses for deep learning, AI model deployment, product building
+      and AI research.
+
+
+      An open-source community for research on topics such as neural scaling
+      laws and model feature interpretability, on Discord and Github. We aim to
       guide solo independent people interested for pursuing AI research on their
       own.
 
 
-      We help build project portfolio for others.
+      To help build project portfolio for others.
 
 
-      We help students prepare for standardized AI tests in universities,
+      To help students prepare for standardized AI tests in universities and
       provide support for AI hackathon prep.
 
-
-      We also have our own newsletter series where we cover topics such as
-      latest news in AI research, tech startup culture, computer hardware and
-      architecture, chip design, and robotics.
     actions:
       - label: Get started
         altText: ''
