@@ -43,7 +43,7 @@
         },
         {
             "label": "Privacy",
-            "url": "/",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
