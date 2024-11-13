@@ -245,12 +245,13 @@ sections:
         tagline: Feature 1
         subtitle: 'Upgrade your skills. Get qualified for landing top AI jobs. '
         text: >
-          We help people get started with their career in AI as a professional
-          ML engineer/ data scientist/ software devloper. We specialize in
-          teaching others practical machine learning, MLOps, and much more.
+          We will help people get started with their career in AI as a
+          professional ML engineer/ data scientist/ software devloper. We aim to
+          specialize in teaching others practical machine learning, MLOps, and
+          much more.
 
 
-          We help people build their project portfolio.
+          Our future goal is to help people build their project portfolio.
         image:
           type: ImageBlock
           altText: Featured item
