@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Learn AI fundamentals. From basics to breakthroughs.
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Join us to kickstart your career in AI.
     text: >
