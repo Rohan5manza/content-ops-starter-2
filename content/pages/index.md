@@ -208,9 +208,10 @@ sections:
         subtitle: We aim to help others start their journey in research.
         text: >
           We dub ourselves the "**Indie Hackers for research**" : for solo and
-          independent beginners who wish to pursue AI research. We provide them
-          support and guidance in ideation phase, writing research papers, get
-          published in reputed journals, prepare for conferences, and much more.
+          independent beginners who wish to pursue AI research. We aim to
+          provide them support and guidance in ideation phase, writing research
+          papers, get published in reputed journals, prepare for conferences,
+          and much more.
         image:
           type: ImageBlock
           altText: Featured item
