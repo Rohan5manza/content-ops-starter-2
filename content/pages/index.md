@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Learn AI fundamentals. From basics to breakthroughs.
+      text: Learn AI. From basics to breakthroughs.
       color: text-dark
       type: TitleBlock
     subtitle: Join us to kickstart your career in AI.
