@@ -205,7 +205,7 @@ sections:
       - type: FeaturedItem
         title: 'Get started in AI research '
         tagline: Feature 1
-        subtitle: We help others start their journey in research.
+        subtitle: We aim to help others start their journey in research.
         text: >
           We dub ourselves the "**Indie Hackers for research**" : for solo and
           independent beginners who wish to pursue AI research. We provide them
