@@ -64,7 +64,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Join us to kickstart your career in AI.
+    subtitle: ''
     text: >+
       At **GradientDev Academy**, we provide an extensive series of technical
       articles and tutorials for AI projects.
