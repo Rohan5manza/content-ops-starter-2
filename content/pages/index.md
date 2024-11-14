@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: Master AI. From basics to breakthroughs.
         tagline: ''
-        subtitle: Increase your reach
+        subtitle: ''
         text: |
           Join us to kickstart your journey in AI
         actions: []
