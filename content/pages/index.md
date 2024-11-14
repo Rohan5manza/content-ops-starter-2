@@ -175,7 +175,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 'Github '
-        subtitle: Codebase
+        subtitle: Code base
         text: >
           Follow our repositories for all our open-source projects and teaching
           course material.
