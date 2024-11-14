@@ -96,6 +96,17 @@ sections:
 
       To help students prepare for standardized AI tests in universities and
       provide support for AI hackathon prep.
+
+
+      To become a centralized place for **curating** AI models and innovations
+      with detailed descriptions and documentation.
+
+
+      To start podcasts and study-with-me sessions.
+
+
+      To peer review other works and videos on AI for ensuring accuracy and
+      correctness.  
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
