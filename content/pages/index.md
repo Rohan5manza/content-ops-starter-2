@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Master AI. From basics to breakthroughs.
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: Join us to kickstart your career in AI.
