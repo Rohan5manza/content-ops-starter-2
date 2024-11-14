@@ -65,28 +65,27 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
-      At **GradientDev Academy**, we provide an extensive series of technical
-      articles and tutorials for AI projects.
+    text: >
+      At **GradientDev Academy**, we provide an extensive series of **technical
+      articles and tutorials** for AI projects.
 
 
-      We also have our own newsletter series where we cover latest news in AI
-      research and industry trends.
+      We also have our **own newsletter series** where we cover latest news in
+      AI research and industry trends.
 
 
       We have some plans that we are currently working on. Our future plans for
-      this initiative are: 
-
+      this initiative are:
 
 
       Teaching courses on platforms such as Udemy and Youtube.
 
 
-      Online courses for deep learning, AI model deployment, product building
-      and AI research.
+      **Online courses** for deep learning, AI model deployment, product
+      building and AI research.
 
 
-      An open-source community for research on topics such as neural scaling
+      An **open-source community** for research on topics such as neural scaling
       laws and model feature interpretability, on Discord and Github. We aim to
       guide solo independent people interested for pursuing AI research on their
       own.
@@ -97,7 +96,6 @@ sections:
 
       To help students prepare for standardized AI tests in universities and
       provide support for AI hackathon prep.
-
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
