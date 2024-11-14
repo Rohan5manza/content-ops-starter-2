@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: 'Master AI: From Foundations to Future Frontiers ! '
+        title: 'Master AI : From Foundations to Future Frontiers ! '
         tagline: ''
         subtitle: ''
         text: |
